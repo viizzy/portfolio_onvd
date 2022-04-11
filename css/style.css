@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto', Helvetica, sans-serif;
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  color: #000;
+}
+
+nav .nav-link{
+  color: #000;
+  font-size: 30px;
+}
+
+nav .nav-link:hover{
+  color: #FD3C07;
+  transition: 0.5s;
+}
+
+header{
+  margin-top: 6%;
+  margin-bottom: 6.5%;
+}
+
+h1{
+  font-size: 105px;
+}
+
+header p{
+  font-size: 26px;
+}
+
+@media only screen and (max-width: 1900px) {
+  h1{
+    font-size: 65px;
+  }
+  header p{
+    font-size: 24px;
+  }
+  nav .nav-link{
+    font-size: 20px;
+    position: relative;
+    right: 5px;
+  }
+  }
+
+
+
+  
+
