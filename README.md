@@ -1,7 +1,7 @@
 # Portfolio 
 
-👩‍💻 My own single-page portfolio website, designed and developed by me! 
+👩‍💻 My own portfolio single-page website
 
 
-## 🛠 / Javascript / Bootstrap 5 / GSAP / Tilt.js / Figma 
+## 🛠 Javascript / Bootstrap 5 / GSAP / Tilt.js / Figma 
 
